@@ -1,7 +1,7 @@
 Hi 👋 My name is Natwijuka Isophel
 ==================================
 
-Certfified Python Dev and AWS Cloud Practioner
+Certified Python Dev and AWS Cloud Practioner
 --------------------
 
 I am so enthusiastic about Tech and I strive at becoming a good software engineer in the world of computing and business operations. I have diverse skills as far as software development is concerned in these fields mobile and web, website development, artificial intelligence, product development, and cloud A breakdown of my strength and capabilities 
