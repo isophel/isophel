@@ -4,7 +4,7 @@ Hi 👋 My name is Natwijuka Isophel
 Certified Python Dev and AWS Cloud Practioner
 --------------------
 
-I am so enthusiastic about Tech and I strive at becoming a good software engineer in the world of computing and business operations. I have diverse skills as far as software development is concerned in these fields mobile and web, website development, artificial intelligence, product development, and cloud A breakdown of my strength and capabilities 
+I am so enthusiastic about Tech and I strive at becoming a good software engineer in the world of computing and business operations. I have diverse skills as far as software development is concerned in these fields mobile and web, website development, artificial intelligence, product development, and cloud
 
 ### Website Development, Digital Marketing, and Branding
 -Using content management systems for analytics, development, and website management using these tools (WordPress and Webflow ), with knowledge of most plugins required for website functionalities (Analytics, development, page builders, security, backup, eCommerce, and monetization) 
@@ -25,10 +25,10 @@ I am so enthusiastic about Tech and I strive at becoming a good software enginee
 \*\*\*\*\*Further Research in Big data analysis using various tools
 
 * 🌍  I'm based in Kampala Uganda
-* ✉️  You can contact me at [natisox18@gmail.com](mailto:nisophel@kacyber.io)
+* ✉️  You can contact me at [isophelnatwijuka@gmail.com](mailto:isophelnatwijuka@gmail.com)
 * 🚀  I'm currently working at [KaCyber Technologies](https://www.kacyber.com/
 * 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on Data Science, Backend
+* 🤝  I'm open to collaborating on Data Science, Backend and Devops
 
 ### Github Usage stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isophel&count_private=true)
