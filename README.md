@@ -18,20 +18,12 @@ I am so enthusiastic about Tech and I strive at becoming a good software enginee
 * Software testing using selenium, continuous Integration with Circle CI, Containerisation with Docker and Kubernetes, Heroku staging, and pipelines
 * Cloud hosting, SSL installation and domain name routing, email configurations and configuring cloud Apps, and using CDN’s 
 
-###Data Science, AI & ML
+### Data Science, AI & ML
 * Natural language processing and chatbots 
 * Model Development with Tensorflow and Keras
 * Model Integration in hardware, web, and mobile applications 
 * Data visualization using pandas and NumPy, Power BI
 * Setting up Data ETL.
-
-
-
-* 🌍  I'm based in Kampala Uganda
-* ✉️  You can contact me at [isophelnatwijuka@gmail.com](mailto:isophelnatwijuka@gmail.com)
-* 🚀  I'm currently working at [KaCyber Technologies](https://www.kacyber.com/
-* 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on Data Science, Backend and Devops
 
 ### Github Usage stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isophel&count_private=true)
