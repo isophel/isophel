@@ -1,30 +1,5 @@
-Hi 👋 My name is Natwijuka Isophel
+Hi 👋 My name Isophel N.
 ==================================
-
-Certified Python Dev and AWS Cloud Practioner
---------------------
-
-I am so enthusiastic about Tech and I strive at becoming a good software engineer in the world of computing and business operations. I have diverse skills as far as software development is concerned in these fields mobile and web, website development, artificial intelligence, product development, and cloud
-
-### Website Development, Digital Marketing, and Branding
-* Using content management systems for analytics, development, and website management using these tools (WordPress and Webflow ), with knowledge of most plugins required for website functionalities (Analytics, development, page builders, security, backup, eCommerce, and monetization) 
-* Using both front-end backend languages to develop websites using a variety of themes with core front-end languages and frameworks( HTML, CSS, and Javascript) and backend (PHP, Python(Django/flask)). 
-* SEO and content creation, website monetization with google Adhence and social media scheduling with tools such as canva, socialbee or stencil -Blogging and Graphics design 
-
-### Software development and Deployment (Web & Mobile), DevOps 
-* Building RESTFUL APIs for backend(node.js, Python), developing and maintaining databases, hosting and maintaining application code in different hosting platforms (AWS, Azure, GCP ) Google Play and App store
-* Using third-party APIs, plugins, SDK, and widgets in development -Building front end with Javascript (React and Vue Js) 
-* Mobile Applications with Java/ Android, Flutter
-* Software testing using selenium, continuous Integration with Circle CI, Containerisation with Docker and Kubernetes, Heroku staging, and pipelines
-* Cloud hosting, SSL installation and domain name routing, email configurations and configuring cloud Apps, and using CDN’s 
-
-### Data Science, AI & ML
-* Natural language processing and chatbots 
-* Model Development with Tensorflow and Keras
-* Model Integration in hardware, web, and mobile applications 
-* Data visualization using pandas and NumPy, Power BI
-* Setting up Data ETL.
-
 ### Github Usage stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isophel&count_private=true)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=isophel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
