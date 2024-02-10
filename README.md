@@ -1,4 +1,4 @@
-Hi 👋 My name Isophel N.
+It's Isophel here👋. Have a Great Day! 
 ==================================
 ### Github Usage stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isophel&count_private=true)
